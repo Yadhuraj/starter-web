@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+#Wasuppppppp!!!!!
 # TEAM
 
     <name> -- <role> -- <twitter>
@@ -9,7 +9,7 @@
 
     <name>
 
-# TECHNOLOGY COLOPHON
+# TECHNOLOGY COLOPHON 
 
     HTML5, CSS3
     jQuery, Modernizr
